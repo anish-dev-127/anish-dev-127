@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-dev-127&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
