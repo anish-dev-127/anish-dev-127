@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
  <p> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anish-dev-127.anish-dev-127)</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkumar127&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anish-dev-127.anish-dev-127)
 
                    
